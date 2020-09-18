@@ -3,6 +3,10 @@ Bio-informatic assignment, we done a trimming operation on FASTQ file, builded t
 
 The documentation and the rest of README is in italian for our convenience; the code is english commented in its entirety. 
 
+<p align="center">
+  <img src="
+https://user-images.githubusercontent.com/24355671/93601343-59463880-f9c1-11ea-81df-bb05bb9d79ab.gif">
+</p>
 
 # Assemblaggio di reads
 
