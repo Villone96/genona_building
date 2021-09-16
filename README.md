@@ -1,5 +1,5 @@
 # GenonaBuilding
-Bio-informatic assignment, we done a trimming operation on FASTQ file, builded the overlap graph and de Bruijn graph for genona rebuilding. We can manage bubbles and tips error on de Bruijn graph, we assume that we see what is correct several times, compared to what is not; we also compared the two graph on memory usage and time request.
+Bio-informatic assignment, we done a trimming operation on FASTQ file, built the overlap graph and de Bruijn graph for genona rebuilding. We can manage bubbles and tips error on de Bruijn graph, we assume that we see what is correct several times, compared to what is not; we also compared the two graph on memory usage and time request.
 
 The documentation and the rest of README is in italian for our convenience; the code is english commented in its entirety. 
 
